@@ -1,4 +1,4 @@
-# [Django Gradient Dark PRO](https://appseed.us/admin-dashboards/django-dashboard-gradient-pro)
+# [Django Gradient Dark PRO](https://appseed.us/admin-dashboards/django-dashboard-gradient-dark-pro)
 
 > Commercial product - **Django Dashboard** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -12,14 +12,14 @@
 
 > Links
 
-- [Django Gradient Dark PRO](https://django-dashboard-gradient-pro.appseed.us/) - LIVE Demo
-- [Django Gradient Dark PRO](https://appseed.us/admin-dashboards/django-dashboard-gradient-pro) - Official product page
+- [Django Gradient Dark PRO](https://django-dashboard-gradient-dark-pro.appseed.us/) - LIVE Demo
+- [Django Gradient Dark PRO](https://appseed.us/admin-dashboards/django-dashboard-gradient-dark-pro) - Official product page
 - More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
 - [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
 
 <br />
 
-![Django Gradient Dark PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-gradient-pro/master/media/django-dashboard-gradient-pro-screen.png)
+![Django Gradient Dark PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-gradient-dark-pro/master/media/django-dashboard-gradient-dark-pro-screen.png)
 
 <br />
 
@@ -27,8 +27,8 @@
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/priv-django-dashboard-gradient-pro.git
-$ cd priv-django-dashboard-gradient-pro
+$ git clone https://github.com/app-generator/priv-django-dashboard-gradient-dark-pro.git
+$ cd priv-django-dashboard-gradient-dark-pro
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -136,8 +136,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/priv-django-dashboard-gradient-pro.git
-$ cd priv-django-dashboard-gradient-pro
+$ git clone https://github.com/app-generator/priv-django-dashboard-gradient-dark-pro.git
+$ cd priv-django-dashboard-gradient-dark-pro
 ```
 
 > Start the app in Docker
@@ -202,4 +202,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Django Gradient Dark PRO](https://appseed.us/admin-dashboards/django-dashboard-gradient-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Django Gradient Dark PRO](https://appseed.us/admin-dashboards/django-dashboard-gradient-dark-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
