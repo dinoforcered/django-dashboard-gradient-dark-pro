@@ -17,7 +17,7 @@
 > Links
 
 - [Django Gradient Dark PRO](https://appseed.us/admin-dashboards/django-dashboard-gradient-dark-pro) - product page
-- [Django Gradient Dark PRO](https://django-dashboard-gradient-dark-pro.appseed.us/) - LIVE Deployment
+- [Django Gradient Dark PRO](https://django-gradient-dark-pro.appseed-srv1.com) - LIVE Deployment
 
 <br />
 
