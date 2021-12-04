@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.3] 2021-12-04
+### Improvements & Fixes
+
+- Bump Django Codebase to [v2.0.4](https://github.com/app-generator/boilerplate-code-django-dashboard/releases)
+- Patch #1: SCSS Compilation Error: argument `$color` of `rgba($color, $alpha)` must be a color 
+
 ## [1.0.2] 2021-09-09
 ### Improvements & Fixes
 
